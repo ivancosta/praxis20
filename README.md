@@ -1,4 +1,4 @@
-# praxis20
+# interfax20
 ```text
 Reverse Engineering the "Interfax 20" Parallel interface for 
 the Olivetti Praxis 20 electronic typewriter.
